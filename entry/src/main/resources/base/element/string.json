@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "openGym 鸿蒙原生版"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "健身训练记录"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "OpenGym"
+    }
+  ]
+}
